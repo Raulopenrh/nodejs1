@@ -13,7 +13,7 @@ app.use(bodyParser.json());
 let usuarios = [
   { id: 1, nombre: "Ana García", email: "ana@example.com", edad: 28 },
   { id: 2, nombre: "Carlos López", email: "carlos@example.com", edad: 35 },
-  { id: 3, nombre: "Elena Martínez", email: "elena@example.com", edad: 42 }
+  { id: 3, nombre: "Elena Martínez", email: "elena@example.com", edad: 42 },
   { id: 4, nombre: "Pepe Garcia", email: "pepe@example.com", edad: 25 }
 ];
 
